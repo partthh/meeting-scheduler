@@ -103,7 +103,7 @@ function MeetingForm({setFormValue}) {
                      >
                         <Image src={option.icon} width={30} height={30}
                         alt={option.name}/>
-                        <h2>{option.name}</h2>   
+                        <h2>{option.name}</h2>
                     </div>
                 ))}
             </div>

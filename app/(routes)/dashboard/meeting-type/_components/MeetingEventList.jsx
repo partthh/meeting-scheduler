@@ -15,7 +15,6 @@ import {
     DropdownMenuSeparator,
     DropdownMenuTrigger,
   } from "@/components/ui/dropdown-menu"
-
   
 function MeetingEventList() {
     const db = getFirestore(app);
